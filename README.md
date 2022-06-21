@@ -5,7 +5,7 @@
 ### 1.1C语言的起源与发展历史
 
 
-
+![这是图片](https://lh1.hetaousercontent.com/img/ea2621f95eac0568.jpg?thumbnail=true)
 ### 1.2C语言的应用及其优缺点
 
 #### 1.2.1C语言的应用有哪些？
